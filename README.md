@@ -46,11 +46,10 @@ endmodule
 ```
 Developed by: AISHWARIYA S RegisterNumber: 24900840
 
-**RTL realization**
-![WP](https://github.com/user-attachments/assets/ee5b6ca0-c342-4502-b26a-ff03b4cc1cf5)
 
 
-**Output:**
+
+
 
 **RTL**
 ![Screenshot 2024-10-29 112513](https://github.com/user-attachments/assets/d05a9059-d889-407e-8d89-614ae70ec7d6)
