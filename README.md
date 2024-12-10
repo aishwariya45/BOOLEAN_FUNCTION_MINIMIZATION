@@ -64,7 +64,7 @@ Developed by: AISHWARIYA S RegisterNumber: 24900840
 
 
 **Timing Diagram**
-![Screenshot 2024-10-29 112302](https://github.com/user-attachments/assets/d1225615-8691-4df2-9f18-e1aa53939fb3)
+![Screenshot 2024-12-10 112527](https://github.com/user-attachments/assets/dd12b31e-107f-4b01-88a0-1e6569872a77)
 
 
 **Result:**
