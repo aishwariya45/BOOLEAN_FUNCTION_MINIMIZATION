@@ -44,6 +44,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 ```
+
+Developed by: AISHWARIYA S RegisterNumber: 24900840
+
 module exp2(a,b,c,d,f1,w,x,y,z,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
@@ -51,7 +54,7 @@ assign f1=((~b&~c)|(~a&b&d)|(a&b&~c));
 assign f2=((~y&z)|(x&y)|(w&y));
 endmodule
 ```
-Developed by: AISHWARIYA S RegisterNumber: 24900840
+
 
 
 
@@ -59,11 +62,15 @@ Developed by: AISHWARIYA S RegisterNumber: 24900840
 
 
 **RTL**
+
+
 ![Screenshot 2024-10-29 112513](https://github.com/user-attachments/assets/d05a9059-d889-407e-8d89-614ae70ec7d6)
 
 
 
 **Timing Diagram**
+
+
 ![Screenshot 2024-12-10 112527](https://github.com/user-attachments/assets/dd12b31e-107f-4b01-88a0-1e6569872a77)
 
 
